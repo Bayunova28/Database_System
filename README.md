@@ -1,12 +1,10 @@
 # Database System
 <img src="https://github.com/Bayunova28/Database_System/blob/main/database-blue.png" height="450" width="1000">
-A database is an organized collection of structured information, or data, typically stored electronically in a computer system. A database is usually controlled by a database 
+<p align="justify">A database is an organized collection of structured information, or data, typically stored electronically in a computer system. A database is usually controlled by a database 
 management system (DBMS). Together, the data and the DBMS, along with the applications that are associated with them, are referred to as a database system, often shortened to just 
-database.
-<br />
-<br />
-Data within the most common types of databases in operation today is typically modeled in rows and columns in a series of tables to make processing and data querying efficient. 
-The data can then be easily accessed, managed, modified, updated, controlled, and organized. Most databases use structured query language (SQL) for writing and querying data.
+database.<p>
+<p align="justify">Data within the most common types of databases in operation today is typically modeled in rows and columns in a series of tables to make processing and data querying efficient. 
+The data can then be easily accessed, managed, modified, updated, controlled, and organized. Most databases use structured query language (SQL) for writing and querying data.<p>
 
 # Documentation
 ### Getting Started
