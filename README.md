@@ -10,7 +10,7 @@ The data can then be easily accessed, managed, modified, updated, controlled, an
 
 # Documentation
 ### Getting Started
-```
+```mysql
 # Create database
 CREATE DATABASE database_name; 
 
@@ -33,7 +33,7 @@ DESC table_name;
 DROP TABLE table_name;
 ```
 ### Alter Table
-```
+```mysql
 # Alter field name or column
 ALTER TABLE table_name CHANGE old_field_name current_field_name data_type(size); 
 
@@ -48,7 +48,7 @@ ALTER TABLE table_name DROP COLUMN field_name;
 ```
 
 ### Data Manipulation Language
-```
+```mysql
 # Insert table
 INSERT INTO field_name VALUES(text1, text2, …, text_n); 
 
@@ -63,7 +63,7 @@ DELETE FROM table_name WHERE condition;
 ```
 
 ### Single Row Function
-```
+```mysql
 # Sorting data (ascending)
 SELECT * FROM table_name ORDER BY key_field_name ASC;
 
